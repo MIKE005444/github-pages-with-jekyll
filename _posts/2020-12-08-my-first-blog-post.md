@@ -1,2 +1,4 @@
-hi there! :)
-welcome to my page UWU
+---
+title: "welcome to my blog"
+date: YYYY-MM-DD
+---
